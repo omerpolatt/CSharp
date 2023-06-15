@@ -1,0 +1,8 @@
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\bin\Debug\consoluygulaması.exe.config
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\bin\Debug\consoluygulaması.exe
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\bin\Debug\consoluygulaması.pdb
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\obj\Debug\consoluygulaması.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\obj\Debug\consoluygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\obj\Debug\consoluygulaması.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\obj\Debug\consoluygulaması.exe
+C:\Users\avsro\Desktop\C#\consoluygulaması\consoluygulaması\obj\Debug\consoluygulaması.pdb

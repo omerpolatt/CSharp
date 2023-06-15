@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\bin\Debug\Menustrip_kullanımı.exe.config
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\bin\Debug\Menustrip_kullanımı.exe
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\bin\Debug\Menustrip_kullanımı.pdb
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.Form1.resources
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.exe
+C:\Users\avsro\Desktop\C#\Menustrip_kullanımı\Menustrip_kullanımı\obj\Debug\Menustrip_kullanımı.pdb

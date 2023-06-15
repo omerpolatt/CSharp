@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.Form1.resources
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\bin\Debug\dikdörtgende_çevre_ve_alan_hesabı.exe.config
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\bin\Debug\dikdörtgende_çevre_ve_alan_hesabı.exe
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\bin\Debug\dikdörtgende_çevre_ve_alan_hesabı.pdb
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.exe
+C:\Users\avsro\Desktop\C#\dikdörtgende_çevre_ve_alan_hesabı\dikdörtgende_çevre_ve_alan_hesabı\obj\Debug\dikdörtgende_çevre_ve_alan_hesabı.pdb

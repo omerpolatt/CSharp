@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\bin\Debug\diziler_uygulması.exe.config
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\bin\Debug\diziler_uygulması.exe
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\bin\Debug\diziler_uygulması.pdb
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.Form1.resources
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.exe
+C:\Users\avsro\Desktop\C#\diziler_uygulması\diziler_uygulması\obj\Debug\diziler_uygulması.pdb

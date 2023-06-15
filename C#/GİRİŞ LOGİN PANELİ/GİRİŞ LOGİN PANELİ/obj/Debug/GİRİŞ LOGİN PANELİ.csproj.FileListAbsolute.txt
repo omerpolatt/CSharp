@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\bin\Debug\GİRİŞ LOGİN PANELİ.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\bin\Debug\GİRİŞ LOGİN PANELİ.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\bin\Debug\GİRİŞ LOGİN PANELİ.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ_LOGİN_PANELİ.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ_LOGİN_PANELİ.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\GİRİŞ LOGİN PANELİ\GİRİŞ LOGİN PANELİ\obj\Debug\GİRİŞ LOGİN PANELİ.pdb

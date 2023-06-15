@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\bin\Debug\matematiksel işlem if-elseif.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\bin\Debug\matematiksel işlem if-elseif.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\bin\Debug\matematiksel işlem if-elseif.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel_işlem_if_elseif.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel_işlem_if_elseif.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\matematiksel işlem if-elseif\matematiksel işlem if-elseif\obj\Debug\matematiksel işlem if-elseif.pdb

@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\bin\Debug\MetinDosyasına VeriGirişi.exe.config
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\bin\Debug\MetinDosyasına VeriGirişi.exe
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\bin\Debug\MetinDosyasına VeriGirişi.pdb
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına_VeriGirişi.Form1.resources
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına_VeriGirişi.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.exe
+C:\Users\avsro\Desktop\C#\MetinDosyasına VeriGirişi\MetinDosyasına VeriGirişi\obj\Debug\MetinDosyasına VeriGirişi.pdb

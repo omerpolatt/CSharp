@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.Form1.resources
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\bin\Debug\EnumKullanımı.exe.config
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\bin\Debug\EnumKullanımı.exe
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\bin\Debug\EnumKullanımı.pdb
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.exe
+C:\Users\avsro\Desktop\C#\EnumKullanımı\EnumKullanımı\obj\Debug\EnumKullanımı.pdb

@@ -1,0 +1,8 @@
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\bin\Debug\yapıcı(constructor)method.exe.config
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\bin\Debug\yapıcı(constructor)method.exe
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\bin\Debug\yapıcı(constructor)method.pdb
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\obj\Debug\yapıcı(constructor)method.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\obj\Debug\yapıcı(constructor)method.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\obj\Debug\yapıcı(constructor)method.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\obj\Debug\yapıcı(constructor)method.exe
+C:\Users\avsro\Desktop\C#\yapıcı(constructor)method\yapıcı(constructor)method\obj\Debug\yapıcı(constructor)method.pdb

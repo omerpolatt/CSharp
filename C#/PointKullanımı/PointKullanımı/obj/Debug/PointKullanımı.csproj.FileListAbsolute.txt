@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\bin\Debug\PointKullanımı.exe.config
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\bin\Debug\PointKullanımı.exe
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\bin\Debug\PointKullanımı.pdb
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.Form1.resources
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.exe
+C:\Users\avsro\Desktop\C#\PointKullanımı\PointKullanımı\obj\Debug\PointKullanımı.pdb

@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\bin\Debug\ProgressBar kullanım örneği.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\bin\Debug\ProgressBar kullanım örneği.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\bin\Debug\ProgressBar kullanım örneği.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar_kullanım_örneği.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar_kullanım_örneği.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\ProgressBar kullanım örneği\ProgressBar kullanım örneği\obj\Debug\ProgressBar kullanım örneği.pdb

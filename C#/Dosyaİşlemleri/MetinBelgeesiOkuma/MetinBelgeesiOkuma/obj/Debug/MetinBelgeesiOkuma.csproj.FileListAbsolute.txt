@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\bin\Debug\MetinBelgeesiOkuma.exe.config
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\bin\Debug\MetinBelgeesiOkuma.exe
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\bin\Debug\MetinBelgeesiOkuma.pdb
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.Form1.resources
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.exe
+C:\Users\avsro\Desktop\C#\MetinBelgeesiOkuma\MetinBelgeesiOkuma\obj\Debug\MetinBelgeesiOkuma.pdb

@@ -1,0 +1,12 @@
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\bin\Debug\FormlarArasıGeçişVeriAktarımı.exe.config
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\bin\Debug\FormlarArasıGeçişVeriAktarımı.exe
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\bin\Debug\FormlarArasıGeçişVeriAktarımı.pdb
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.Form1.resources
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.Form2.resources
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.exe
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçişVeriAktarımı\FormlarArasıGeçişVeriAktarımı\obj\Debug\FormlarArasıGeçişVeriAktarımı.pdb

@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\bin\Debug\DosyaOluşturmaİşlemi.exe.config
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\bin\Debug\DosyaOluşturmaİşlemi.exe
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\bin\Debug\DosyaOluşturmaİşlemi.pdb
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.Form1.resources
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.exe
+C:\Users\avsro\Desktop\C#\DosyaOluşturmaİşlemi\DosyaOluşturmaİşlemi\obj\Debug\DosyaOluşturmaİşlemi.pdb

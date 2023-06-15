@@ -1,0 +1,22 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK_BİLET_REZARVASYON_PROJESİ.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK_BİLET_REZARVASYON_PROJESİ.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.pdb
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe.config
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\bin\Debug\UÇAK BİLET REZARVASYON PROJESİ.pdb
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK_BİLET_REZARVASYON_PROJESİ.Form1.resources
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK_BİLET_REZARVASYON_PROJESİ.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.exe
+C:\Users\avsro\Desktop\C#\UÇAK BİLET REZARVASYON PROJESİ\UÇAK BİLET REZARVASYON PROJESİ\obj\Debug\UÇAK BİLET REZARVASYON PROJESİ.pdb

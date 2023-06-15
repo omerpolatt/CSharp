@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\bin\Debug\CptchaKullanımı.exe.config
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\bin\Debug\CptchaKullanımı.exe
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\bin\Debug\CptchaKullanımı.pdb
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.Form1.resources
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.exe
+C:\Users\avsro\Desktop\C#\CptchaKullanımı\CptchaKullanımı\obj\Debug\CptchaKullanımı.pdb

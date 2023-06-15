@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe.config
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.exe
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\bin\Debug\FormlarArasıGeçiş.pdb
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Form1.resources
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.exe
+C:\Users\avsro\Desktop\C#\FormlarArasıGeçiş\FormlarArasıGeçiş\obj\Debug\FormlarArasıGeçiş.pdb

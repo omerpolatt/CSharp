@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\bin\Debug\RandomKomutuUygulaması.exe.config
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\bin\Debug\RandomKomutuUygulaması.exe
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\bin\Debug\RandomKomutuUygulaması.pdb
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.Form1.resources
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.exe
+C:\Users\avsro\Desktop\C#\RandomKomutuUygulaması\RandomKomutuUygulaması\obj\Debug\RandomKomutuUygulaması.pdb

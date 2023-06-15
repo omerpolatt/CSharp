@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.Form1.resources
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.Properties.Resources.resources
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.exe.config
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.exe
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\bin\Debug\MatematikFonksiyonları.pdb
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.exe
+C:\Users\avsro\Desktop\C#\MatematikFonksiyonları\MatematikFonksiyonları\obj\Debug\MatematikFonksiyonları.pdb

@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\bin\Debug\ÖĞrenci sınav notları hesaplama.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\bin\Debug\ÖĞrenci sınav notları hesaplama.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\bin\Debug\ÖĞrenci sınav notları hesaplama.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci_sınav_notları_hesaplama.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci_sınav_notları_hesaplama.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\ÖĞrenci sınav notları hesaplama\ÖĞrenci sınav notları hesaplama\obj\Debug\ÖĞrenci sınav notları hesaplama.pdb

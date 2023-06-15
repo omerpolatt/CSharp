@@ -1,0 +1,11 @@
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\bin\Debug\manuel bilgi yarışması.exe.config
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\bin\Debug\manuel bilgi yarışması.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\bin\Debug\manuel bilgi yarışması.pdb
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.csproj.AssemblyReference.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel_bilgi_yarışması.Form1.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel_bilgi_yarışması.Properties.Resources.resources
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.csproj.GenerateResource.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.csproj.CoreCompileInputs.cache
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.exe
+C:\Users\avsro\Desktop\c# murat yücedağ\manuel bilgi yarışması\manuel bilgi yarışması\obj\Debug\manuel bilgi yarışması.pdb
